@@ -3,3 +3,6 @@ touch.txt
 git status
 git add .
 git commit -m "Początek projektu"
+
+6.	Dodaj plik do obszaru pomostowego i zatwierdź zmiany z komentarzem Początek projektu.
+04.11.2022 13:26
