@@ -1,0 +1,10 @@
+$ git diff master wariant2
+diff --git a/wariant2.txt b/wariant2.txt
+index 5a1cf37..d88ac80 100644
+--- a/wariant2.txt
++++ b/wariant2.txt
+@@ -1 +1 @@
+-Wersja Główna
+\ No newline at end of file
++Wersja pierwsza
+\ No newline at end of file
